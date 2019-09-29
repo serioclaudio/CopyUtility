@@ -1,0 +1,11 @@
+// Sample Config File for Copy Utility
+
+ARCHIVE_FILE_SUFFIX=.zyx
+ARCHIVE_FILE_DELETE=TRUE
+
+SOURCE_FILE=c:\folder1\file001.txt
+SOURCE_FILE=\\server1\accounting\file001.txt
+
+DESTINATION_FOLDER=c:\users\mary\
+DESTINATION_FOLDER=c:\users\bob\
+
